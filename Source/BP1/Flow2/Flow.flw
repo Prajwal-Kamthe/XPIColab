@@ -76,6 +76,52 @@
         <ReturnValueError>false</ReturnValueError>
       </WebServiceMigrationInfo>
     </row_Step>
+    <row_Step>
+      <Properties>
+        <isGoTo>false</isGoTo>
+        <ParentStepID>1</ParentStepID>
+        <SortOrder>1</SortOrder>
+        <ID>3</ID>
+        <Name>Invoke Flow1</Name>
+        <IFCDefinition>7</IFCDefinition>
+        <ProcessMode>1</ProcessMode>
+        <isTwoPhase>false</isTwoPhase>
+        <isWait4Comp>false</isWait4Comp>
+        <isSavePoint>false</isSavePoint>
+        <CallLogicFlow>false</CallLogicFlow>
+        <isReturnXML>false</isReturnXML>
+        <isTrigger>false</isTrigger>
+      </Properties>
+      <iBoltService>
+        <InvokeFlow>
+          <isByExp>0</isByExp>
+          <FlowInfo>
+            <BPID>1</BPID>
+            <FlowID>
+              <ExpressionVal>PCMhJUAkPmdldEZsb3dOYW1lKDEpPCMhJUAkPg==</ExpressionVal>
+              <ExpectedType />
+              <Direction>O</Direction>
+            </FlowID>
+          </FlowInfo>
+          <FlowArg />
+          <ByExpInfo>
+            <BPExp>
+              <ExpectedType>N</ExpectedType>
+              <Direction>I</Direction>
+            </BPExp>
+            <FlowExp>
+              <ExpectedType>N</ExpectedType>
+              <Direction>I</Direction>
+            </FlowExp>
+          </ByExpInfo>
+        </InvokeFlow>
+      </iBoltService>
+      <WebServiceMigrationInfo>
+        <NotMigrated>false</NotMigrated>
+        <OutAttachmentsWarning>false</OutAttachmentsWarning>
+        <ReturnValueError>false</ReturnValueError>
+      </WebServiceMigrationInfo>
+    </row_Step>
   </Steps>
   <Triggers />
   <TextElements />
