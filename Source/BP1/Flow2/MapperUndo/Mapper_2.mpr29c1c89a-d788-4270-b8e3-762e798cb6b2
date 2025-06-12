@@ -22,7 +22,6 @@
           </Condition>
           <ReplicatedCount>0</ReplicatedCount>
           <MaxInstance>0</MaxInstance>
-          <MultiUpdates />
         </Field>
         <Field xsi:type="FieldDataBase">
           <Identifier>Record/empid</Identifier>
@@ -179,7 +178,6 @@
           </Condition>
           <ReplicatedCount>0</ReplicatedCount>
           <MaxInstance>0</MaxInstance>
-          <MultiUpdates />
         </Field>
         <Field xsi:type="FieldFlatFile">
           <Identifier>2e5062fe-7f4b-4a64-9172-4ace0fe7f3b7</Identifier>
