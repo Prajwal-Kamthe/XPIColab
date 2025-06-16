@@ -76,7 +76,6 @@
         <ReturnValueError>false</ReturnValueError>
       </WebServiceMigrationInfo>
     </row_Step>
-<<<<<<< HEAD
     <row_Step>
       <Properties>
         <isGoTo>false</isGoTo>
@@ -128,8 +127,6 @@
         <ReturnValueError>false</ReturnValueError>
       </WebServiceMigrationInfo>
     </row_Step>
-=======
->>>>>>> 7bea058e37522c2ecb97e52b020ba576fba4f192
   </Steps>
   <Triggers />
   <TextElements />

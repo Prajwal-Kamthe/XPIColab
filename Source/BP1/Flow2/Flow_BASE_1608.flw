@@ -76,7 +76,6 @@
         <ReturnValueError>false</ReturnValueError>
       </WebServiceMigrationInfo>
     </row_Step>
-<<<<<<< HEAD
     <row_Step>
       <Properties>
         <isGoTo>false</isGoTo>
@@ -95,7 +94,6 @@
       </Properties>
       <MapperInfo>
         <DBTransLevel>Mapper</DBTransLevel>
-        <DBTransString />
         <ErrorHandling>Continue</ErrorHandling>
       </MapperInfo>
       <iBoltService />
@@ -111,7 +109,7 @@
         <ParentStepID>2</ParentStepID>
         <SortOrder>1</SortOrder>
         <ID>3</ID>
-        <Name>Final step</Name>
+        <Name>NOP</Name>
         <IFCDefinition>22</IFCDefinition>
         <ProcessMode>1</ProcessMode>
         <isTwoPhase>false</isTwoPhase>
@@ -128,8 +126,6 @@
         <ReturnValueError>false</ReturnValueError>
       </WebServiceMigrationInfo>
     </row_Step>
-=======
->>>>>>> 7bea058e37522c2ecb97e52b020ba576fba4f192
   </Steps>
   <Triggers />
   <TextElements />
