@@ -94,6 +94,7 @@
       </Properties>
       <MapperInfo>
         <DBTransLevel>Mapper</DBTransLevel>
+        <DBTransString />
         <ErrorHandling>Continue</ErrorHandling>
       </MapperInfo>
       <iBoltService />
@@ -109,7 +110,7 @@
         <ParentStepID>2</ParentStepID>
         <SortOrder>1</SortOrder>
         <ID>3</ID>
-        <Name>NOP</Name>
+        <Name>Final step</Name>
         <IFCDefinition>22</IFCDefinition>
         <ProcessMode>1</ProcessMode>
         <isTwoPhase>false</isTwoPhase>
