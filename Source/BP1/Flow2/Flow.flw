@@ -110,7 +110,7 @@
         <ParentStepID>2</ParentStepID>
         <SortOrder>1</SortOrder>
         <ID>3</ID>
-        <Name>Final step</Name>
+        <Name>SR1 changes</Name>
         <IFCDefinition>22</IFCDefinition>
         <ProcessMode>1</ProcessMode>
         <isTwoPhase>false</isTwoPhase>
