@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData projectKey="9cc81fdd-3770-45a0-9713-c555ab9a3673">
+  <BusinessProcess>
+    <ID>1</ID>
+    <Name>Business Process-1</Name>
+    <Flow>
+      <ID>1</ID>
+      <Name>Flow-1</Name>
+      <Step>
+        <ID>1</ID>
+        <Name>NOP</Name>
+      </Step>
+      <Step>
+        <ID>2</ID>
+        <Name>Set C.UserBlob</Name>
+      </Step>
+      <Step>
+        <ID>3</ID>
+        <Name>set Blob</Name>
+      </Step>
+      <Step>
+        <ID>3</ID>
+        <Name>EOF</Name>
+      </Step>
+    </Flow>
+    <Flow>
+      <ID>2</ID>
+      <Name>Flow-2</Name>
+      <Step>
+        <ID>1</ID>
+        <Name>Initial commit</Name>
+      </Step>
+      <Step>
+        <ID>2</ID>
+        <Name>Get Emp Details</Name>
+      </Step>
+      <Step>
+        <ID>3</ID>
+        <Name>SR1 changes</Name>
+      </Step>
+      <Step>
+        <ID>4</ID>
+        <Name>SR2 changes modified</Name>
+      </Step>
+      <Step>
+        <ID>5</ID>
+        <Name>SR 3 changes added</Name>
+      </Step>
+      <Step>
+        <ID>6</ID>
+        <Name>SR 4 added</Name>
+      </Step>
+      <Step>
+        <ID>7</ID>
+        <Name>SR 5 added</Name>
+      </Step>
+    </Flow>
+    <Flow>
+      <ID>3</ID>
+      <Name>June</Name>
+      <Step>
+        <ID>1</ID>
+        <Name>24-6</Name>
+      </Step>
+    </Flow>
+  </BusinessProcess>
+</ProjectData>
